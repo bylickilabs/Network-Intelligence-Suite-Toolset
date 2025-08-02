@@ -1,5 +1,7 @@
 ### 🧠 BYLICKILABS Network Intelligence Suite – GUI Powered
 
+![Logo](../assets/logo.png)
+
 A powerful collection of graphical tools for real-time network monitoring, diagnostics, and security analysis
 
 ---
