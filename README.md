@@ -1,7 +1,6 @@
-
 ### 🧠 BYLICKILABS Network Intelligence Suite – GUI Powered
 
-A powerful collection of graphical tools for real-time network monitoring, diagnostics, and security analysis – developed by me, released for you.
+A powerful collection of graphical tools for real-time network monitoring, diagnostics, and security analysis
 
 ---
 
@@ -66,8 +65,7 @@ Scan and map nearby wireless networks, visualize signal strength over time, anal
 Because transparency matters.
 
 > All tools in this suite are released as free and open source under the MIT license – so you can audit, customize, and extend them as needed.
-
-Security software must be trustworthy. Closed black boxes are no longer acceptable in modern infosec operations. This project reflects the belief that **functionality, control, and visibility belong in the hands of users**.
+  - Security software must be trustworthy. Closed black boxes are no longer acceptable in modern infosec operations. This project reflects the belief that **functionality, control, and visibility belong in the hands of users**.
 
 <br>
 
@@ -152,9 +150,9 @@ GitHub: [BYLICKILABS](https://github.com/bylickilabs)
 
 ## ✅ License
 
-This project is licensed under the **MIT License**.  
-Use it freely, fork it, enhance it — just don’t forget to give credit.
-[LICENSE](LICENSE)
+> This project is licensed under the **MIT License**.  
+  - Use it freely, fork it, enhance it — just don’t forget to give credit.
+    - [LICENSE](LICENSE)
 
 <br>
 
