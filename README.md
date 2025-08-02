@@ -9,6 +9,9 @@ A powerful collection of graphical tools for real-time network monitoring, diagn
 **BYLICKILABS Network Intelligence Suite** is a modernized set of **10 advanced network utilities**, transformed from traditional CLI tools into a fully interactive **GUI-based security environment**.
 
 > Each tool in this suite has been carefully redesigned, extended, and refined to meet the demands of modern IT infrastructures – now available as open-source software under my MIT license.
+
+<br>
+
 > Whether you're a sysadmin, a network analyst, or a cybersecurity engineer, this toolkit is designed to help you **observe**, **inspect**, **validate**, and **harden** your environment.
 
 <br>
