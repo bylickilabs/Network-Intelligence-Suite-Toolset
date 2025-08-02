@@ -89,7 +89,7 @@ Jedes Tool enthält eigene, ausführliche Dokumentation:
 Klonen und starten:
 
 ```bash
-git clone https://github.com/bylickilabs/network-intelligence-suite.git
+git clone https://github.com/bylickilabs/Network-Intelligence-Suite-Toolset.git
 cd network-intelligence-suite
 (verzeichnis) python app.py
 ```
