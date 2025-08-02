@@ -13,43 +13,53 @@ Each tool in this suite has been carefully redesigned, extended, and refined to 
 
 Whether you're a sysadmin, a network analyst, or a cybersecurity engineer, this toolkit is designed to help you **observe**, **inspect**, **validate**, and **harden** your environment.
 
+<br>
+
 ---
+
+<br>
 
 ## 🔧 What's Inside?
 
 Here’s what you get – all tools run locally, require no external dashboards, and are built entirely in Python:
 
-### 1. ⚙️ Autorun Inspector  
+```yarn
+1. ⚙️ Autorun Inspector  
 Visualize, filter and analyze auto-start entries, services, registry hooks, and scheduled tasks – identify stealthy background activity in real time.
 
-### 2. 🌐 DNS Inspector  
+2. 🌐 DNS Inspector  
 Query and validate DNS records (A, MX, TXT), verify SPF/DKIM/DMARC, check DNSSEC, and detect anomalies with passive DNS and WHOIS integrations.
 
-### 3. 🔥 Firewall Rule Analyzer  
+3. 🔥 Firewall Rule Analyzer  
 Import and simulate local or external firewall rules (UFW, iptables, Windows), detect misconfigurations, and test rule logic visually.
 
-### 4. 🛠️ MAC Address Lookup (API)  
+4. 🛠️ MAC Address Lookup (API)  
 Identify unknown devices on your network using vendor resolution via MAC address and a secured lookup API. Works online with fallback caching.
 
-### 5. 📡 Network Toolkit  
+5. 📡 Network Toolkit  
 Run subnet scans, traceroutes, ping sweeps, and detailed TCP port inspections – all from a modular interface with live response visualization.
 
-### 6. 🔎 Packet Sniffer  
+6. 🔎 Packet Sniffer  
 Capture live packets with protocol filtering, entropy analysis, and raw view export (.pcap, hex). Includes traffic shaping insights and session parsing.
 
-### 7. 🔒 Secure Port Monitor  
+7. 🔒 Secure Port Monitor  
 Continuously track open ports and services (inbound/outbound). Receive warnings on changes, remote connections, and unauthorized listeners.
 
-### 8. 📁 Secure Transfer Assistant  
+8. 📁 Secure Transfer Assistant  
 Send files securely with built-in AES or GPG encryption, including checksum validation, QR-based pairing, and optional WebRTC fallback.
 
-### 9. 🚀 Speed Test Utility  
+9. 🚀 Speed Test Utility  
 Benchmark your bandwidth with precision using the official speedtest.net API – shows latency, jitter, packet loss, ISP info, and logs for reporting.
 
-### 10. 📶 WiFi Analyzer  
+10. 📶 WiFi Analyzer  
 Scan and map nearby wireless networks, visualize signal strength over time, analyze channel congestion, and log SSID changes in your vicinity.
+```
+
+<br>
 
 ---
+
+<br>
 
 ## 🔓 Why Open Source?
 
@@ -59,7 +69,11 @@ Because transparency matters.
 
 Security software must be trustworthy. Closed black boxes are no longer acceptable in modern infosec operations. This project reflects the belief that **functionality, control, and visibility belong in the hands of users**.
 
+<br>
+
 ---
+
+<br>
 
 ## 🖥️ System Requirements
 
@@ -68,7 +82,11 @@ Security software must be trustworthy. Closed black boxes are no longer acceptab
 - GUI Framework: Tkinter (included in standard Python)  
 - Required packages listed in `requirements.txt`
 
+<br>
+
 ---
+
+<br>
 
 ## 📚 Documentation
 
@@ -82,7 +100,11 @@ Each tool in this suite is bundled with its own detailed documentation, includin
 
 > You’ll find each tool’s documentation in its respective subfolder.
 
+<br>
+
 ---
+
+<br>
 
 ## 🚀 Getting Started
 
@@ -96,7 +118,11 @@ cd network-intelligence-suite
 
 No installer required. All tools are embedded in a centralized launcher.
 
+<br>
+
 ---
+
+<br>
 
 ## 🔍 Design Philosophy
 
@@ -106,7 +132,11 @@ No installer required. All tools are embedded in a centralized launcher.
 - 📄 **Documentation is part of the product** – not an afterthought  
 - 🧩 **Extensible architecture** – each module can be extended or isolated as a standalone tool
 
+<br>
+
 ---
+
+<br>
 
 ## 🧑‍💻 Author & Maintainer
 
@@ -114,7 +144,11 @@ No installer required. All tools are embedded in a centralized launcher.
 Founder, BYLICKILABS  
 GitHub: [BYLICKILABS](https://github.com/bylickilabs)
 
+<br>
+
 ---
+
+<br>
 
 ## ✅ License
 
@@ -122,7 +156,11 @@ This project is licensed under the **MIT License**.
 Use it freely, fork it, enhance it — just don’t forget to give credit.
 [LICENSE](LICENSE)
 
+<br>
+
 ---
+
+<br>
 
 ## 💡 Final Words
 
@@ -137,6 +175,10 @@ Use it to:
 
 And most importantly: **stay in control** of your network.
 
+<br>
+
 ---
+
+<br>
 
 > **🛡️ BYLICKILABS – Code. Secure. Repeat.**
