@@ -90,7 +90,7 @@ Klonen und starten:
 
 ```bash
 git clone https://github.com/bylickilabs/Network-Intelligence-Suite-Toolset.git
-cd network-intelligence-suite
+cd Network-Intelligence-Suite-Toolset
 (verzeichnis) python app.py
 ```
 
