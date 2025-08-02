@@ -113,8 +113,8 @@ Each tool in this suite is bundled with its own detailed documentation, includin
 Clone the repository and launch the GUI:
 
 ```bash
-git clone https://github.com/bylickilabs/network-intelligence-suite.git
-cd network-intelligence-suite
+git clone https://github.com/bylickilabs/Network-Intelligence-Suite-Toolset.git
+cd Network-Intelligence-Suite-Toolset
 (folder) python app.py
 ```
 
